@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\bin\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.deps.json
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\bin\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.runtimeconfig.json
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\bin\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.runtimeconfig.dev.json
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\bin\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.dll
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\bin\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.pdb
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\bin\Debug\netcoreapp3.0\Huellitasco.App.Dominio.dll
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\bin\Debug\netcoreapp3.0\Huellitasco.App.Dominio.pdb
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\obj\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\obj\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\obj\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\obj\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.csproj.CopyComplete
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\obj\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.dll
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Persistencia\obj\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.pdb

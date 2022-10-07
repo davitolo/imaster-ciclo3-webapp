@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Dominio\bin\Debug\netstandard2.1\Huellitasco.App.Dominio.deps.json
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Dominio\bin\Debug\netstandard2.1\Huellitasco.App.Dominio.dll
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Dominio\bin\Debug\netstandard2.1\Huellitasco.App.Dominio.pdb
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Dominio\obj\Debug\netstandard2.1\Huellitasco.App.Dominio.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Dominio\obj\Debug\netstandard2.1\Huellitasco.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Dominio\obj\Debug\netstandard2.1\Huellitasco.App.Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Dominio\obj\Debug\netstandard2.1\Huellitasco.App.Dominio.dll
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Dominio\obj\Debug\netstandard2.1\Huellitasco.App.Dominio.pdb
