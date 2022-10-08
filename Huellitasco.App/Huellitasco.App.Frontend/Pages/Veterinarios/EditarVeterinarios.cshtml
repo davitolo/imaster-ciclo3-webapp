@@ -1,0 +1,29 @@
+﻿@page
+@model Huellitasco.App.Frontend.Pages.EditarVeterinariosModel
+@{
+    <div class="text-center">
+    <h2>Agregar o editar Veterinarios</h2>
+</div>
+
+<div class="principalForm">
+    <form method="post">
+        <div class="form-group">
+            <input type="hidden" asp-for="veterinario.Id" />
+            <label asp-for="veterinario.Nombres"></label>
+            <input asp-for="veterinario.Nombres" class="form-control" placeholder="Nombres" required>
+            <label asp-for="veterinario.Apellidos"></label>
+            <input asp-for="veterinario.Apellidos" class="form-control" placeholder="Apellidos" required>
+            <label asp-for="veterinario.Direccion"></label>
+            <input asp-for="veterinario.Direccion" class="form-control" placeholder="Direccion" required>
+            <label asp-for="veterinario.Telefono"></label>
+            <input asp-for="veterinario.Telefono" class="form-control" placeholder="Telefono" required>
+            <label asp-for="veterinario.TarjetaPreofesional"></label>
+            <input asp-for="veterinario.TarjetaPreofesional" class="form-control" placeholder="Tarjeta Profesional" required>
+            <br>
+            <button type="submit" class="btn btn-primary">Guardar</button>
+        </div>
+    </form>
+</div>
+
+<a asp-page="./ListaVeterinarios" class="btn-default">Lista de Veterinarios </a>
+}
