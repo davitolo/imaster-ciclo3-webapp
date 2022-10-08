@@ -1,0 +1,35 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Huellitasco.App.Dominio;
+using Huellitasco.App.Persistencia;
+
+namespace Huellitasco.App.Frontend.Pages
+{
+    public class DetallesDuenosModel : PageModel
+    {
+        private readonly IRepositorioDueno _repoDueno;
+        [BindProperty] 
+        public Dueno dueno{get;set;}
+
+        public DetallesDuenosModel(){
+            this._repoDueno = new RepositorioDueno(
+                new Persistencia.AppContext());
+        }
+
+        public IActionResult OnGet(int duenoId){
+            dueno = _repoDueno.GetDueno(duenoId);
+            if (dueno == null)
+            {
+                return RedirectToPage("./NotFound.html");
+            }
+            else
+            {
+                return Page();
+            }
+        }
+    }
+}
