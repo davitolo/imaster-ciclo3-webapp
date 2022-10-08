@@ -114,7 +114,7 @@ namespace Huellitasco.App.Persistencia
             var mascotaEncontrado = _appContext.Mascota.FirstOrDefault(m => m.Id == idMascota);
             if (mascotaEncontrado != null)
             {
-                var historiaEncontrado = _appContext.Historias.FirstOrDefault(v => v.Id == idHistoria);
+                var historiaEncontrado = _appContext.Historia.FirstOrDefault(v => v.Id == idHistoria);
                 if (historiaEncontrado != null)
                 {
                     mascotaEncontrado.Historia = historiaEncontrado;

@@ -23,19 +23,19 @@ namespace Huellitasco.App.Persistencia
 
         public IEnumerable<Historia> GetAllHistorias()
         {
-            return _appContext.Historias;
+            return _appContext.Historia;
         }
 
         public Historia AddHistoria(Historia historia)
         {
-            var historiaAdicionado = _appContext.Historias.Add(historia);
+            var historiaAdicionado = _appContext.Historia.Add(historia);
             _appContext.SaveChanges();
             return historiaAdicionado.Entity;
         }
 
         public Historia UpdateHistoria(Historia historia)
         {
-            var historiaEncontrado = _appContext.Historias.FirstOrDefault(d => d.Id == historia.Id);
+            var historiaEncontrado = _appContext.Historia.FirstOrDefault(d => d.Id == historia.Id);
             if (historiaEncontrado != null)
             {
                 historiaEncontrado.FechaInicial = historia.FechaInicial;
@@ -47,23 +47,23 @@ namespace Huellitasco.App.Persistencia
         }
 
         public void DeleteHistoria(int idHistoria){
-            var historiaEncontrado = _appContext.Historias.FirstOrDefault(d=>d.Id == idHistoria);
+            var historiaEncontrado = _appContext.Historia.FirstOrDefault(d=>d.Id == idHistoria);
             if (historiaEncontrado ==null)
             {
                 return;
             }
-            _appContext.Historias.Remove(historiaEncontrado);
+            _appContext.Historia.Remove(historiaEncontrado);
             _appContext.SaveChanges();
         }
 
         public Historia GetHistoria(int idHistoria)
         {
-            return _appContext.Historias.Include(a => a.VisitasPyP).FirstOrDefault(d => d.Id == idHistoria);
+            return _appContext.Historia.Include(a => a.VisitasPyP).FirstOrDefault(d => d.Id == idHistoria);
         }
 
         public IEnumerable<VisitasPyP> GetVisitasHistoria(int idHistoria)
         {
-            var historia = _appContext.Historias.Where (h => h.Id == idHistoria)
+            var historia = _appContext.Historia.Where (h => h.Id == idHistoria)
                                                 .Include( h => h.VisitasPyP)
                                                 .FirstOrDefault();
 
