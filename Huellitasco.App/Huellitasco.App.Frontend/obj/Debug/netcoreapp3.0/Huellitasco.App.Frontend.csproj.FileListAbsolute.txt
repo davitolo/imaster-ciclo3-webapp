@@ -57,3 +57,4 @@ C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellita
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Frontend\bin\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.pdb
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Frontend\obj\Debug\netcoreapp3.0\Razor\Pages\Duenos\DetallesDuenos.cshtml.g.cs
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Frontend\obj\Debug\netcoreapp3.0\Razor\Pages\Duenos\EditarDuenos.cshtml.g.cs
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Frontend\obj\Debug\netcoreapp3.0\Razor\Pages\Veterinarios\ListaVeterinarios.cshtml.g.cs
