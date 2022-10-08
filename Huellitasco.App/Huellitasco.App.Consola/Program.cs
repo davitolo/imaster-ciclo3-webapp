@@ -26,7 +26,7 @@ namespace Huellitasco.App.Consola
             //DeleteMascota();
             //AsignarVeterinario();
             //AddHistoria();
-            AsignarHistoria();
+            //AsignarHistoria();
         }
 
         private static void AddDueno()//agregar dueño
