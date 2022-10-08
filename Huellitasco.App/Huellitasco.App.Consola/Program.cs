@@ -7,6 +7,8 @@ namespace Huellitasco.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("consola de Huellistasco");
+
+            
         }
 
         
