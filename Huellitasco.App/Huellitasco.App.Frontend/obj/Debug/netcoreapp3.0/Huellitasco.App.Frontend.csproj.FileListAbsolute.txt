@@ -61,3 +61,4 @@ C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellita
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Frontend\obj\Debug\netcoreapp3.0\Razor\Pages\Veterinarios\DetallesVeterinarios.cshtml.g.cs
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Frontend\obj\Debug\netcoreapp3.0\Razor\Pages\Veterinarios\EditarVeterinarios.cshtml.g.cs
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Frontend\obj\Debug\netcoreapp3.0\Razor\Pages\Mascotas\ListaMascotas.cshtml.g.cs
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Frontend\obj\Debug\netcoreapp3.0\Razor\Pages\Mascotas\DetallesMascotas.cshtml.g.cs
