@@ -18,7 +18,8 @@ namespace Huellitasco.App.Frontend.Pages
         
         public ListaVeterinariosModel()
         {
-            this._repoVeterinario = new RepositorioVeterinario(new Persistencia.AppContext());
+            this._repoVeterinario = new RepositorioVeterinario(
+                new Persistencia.AppContext());
         }
 
         public IActionResult OnGet(int? veterinarioId)
