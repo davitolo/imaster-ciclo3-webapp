@@ -6,6 +6,8 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="..\Huellitasco.App.Dominio\Huellitasco.App.Dominio.csproj" />
+    <ProjectReference Include="..\Huellitasco.App.Persistencia\Huellitasco.App.Persistencia.csproj" />
   </ItemGroup>
 
 </Project>
