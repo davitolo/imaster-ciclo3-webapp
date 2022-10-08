@@ -61,6 +61,13 @@ namespace Huellitasco.App.Persistencia
             return _appContext.Historias.Include(a => a.VisitasPyP).FirstOrDefault(d => d.Id == idHistoria);
         }
 
-        
+        public IEnumerable<VisitasPyP> GetVisitasHistoria(int idHistoria)
+        {
+            var historia = _appContext.Historias.Where (h => h.Id == idHistoria)
+                                                .Include( h => h.VisitasPyP)
+                                                .FirstOrDefault();
+
+            return historia.VisitasPyP;
+        }
     }
 }
