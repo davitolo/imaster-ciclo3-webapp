@@ -36,7 +36,6 @@ C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellita
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\bin\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.dll
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\bin\Debug\netcoreapp3.0\Huellitasco.App.Dominio.pdb
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\bin\Debug\netcoreapp3.0\Huellitasco.App.Persistencia.pdb
-C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\obj\Debug\netcoreapp3.0\Huellitasco.App.Consola.csprojAssemblyReference.cache
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\obj\Debug\netcoreapp3.0\Huellitasco.App.Consola.AssemblyInfoInputs.cache
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\obj\Debug\netcoreapp3.0\Huellitasco.App.Consola.AssemblyInfo.cs
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\obj\Debug\netcoreapp3.0\Huellitasco.App.Consola.csproj.CopyComplete
@@ -44,3 +43,7 @@ C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellita
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\obj\Debug\netcoreapp3.0\Huellitasco.App.Consola.pdb
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
 C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\obj\Debug\netcoreapp3.0\Huellitasco.App.Consola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\obj\Debug\netcoreapp3.0\Huellitasco.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\obj\Debug\netcoreapp3.0\Huellitasco.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\imaster-ciclo3-webapp\Huellitasco.App\Huellitasco.App.Consola\obj\Debug\netcoreapp3.0\Huellitasco.App.Consola.genruntimeconfig.cache

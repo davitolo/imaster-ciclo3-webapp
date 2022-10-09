@@ -16,8 +16,9 @@ namespace Huellitasco.App.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-                .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = HuellistacoData");
-                //
+                //.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = HuellistacoData1");
+                .UseSqlServer(
+                    "Data Source = miHuellitasDb.mssql.somee.com; Initial Catalog = miHuellitasDb; user id = davito21_SQLLogin_1; pwd = dtqy4yowo3");
             }
         }
     }
